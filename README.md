@@ -1,4 +1,4 @@
 # pruebacurso
 
 
-Agregue la Suerte para GianK
+Agregue la Suerte para
