@@ -1,0 +1,6 @@
+Este es un nuevo archivo
+
+<?php
+
+phpinfo();
+?>
