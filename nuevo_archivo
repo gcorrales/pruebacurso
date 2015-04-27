@@ -1,0 +1,7 @@
+Este es un nuevo archivo
+
+<?php
+
+print_r(phpinfo());
+
+?>
